@@ -1,4 +1,6 @@
 [package]
+description = "ternary-runlength - SuperInstance ecosystem crate"
+repository = "https://github.com/SuperInstance/ternary-runlength"
 name = "ternary-runlength"
 version = "0.1.0"
 edition = "2024"
